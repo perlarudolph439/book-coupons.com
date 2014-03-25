@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Books Coupons Blog]]></title>
+  <link href="http://www.book--coupons.com/atom.xml" rel="self"/>
+  <link href="http://www.book--coupons.com/"/>
+  <updated>2014-03-25T06:40:47+00:00</updated>
+  <id>http://www.book&#8211;coupons.com/</id>
+  <author>
+    <name><![CDATA[Perla Rudolph]]></name>
+    
+  </author>
+
+  
+</feed>

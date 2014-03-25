@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /books_0/
+Sitemap: http://www.book--coupons.com/sitemap.xml 
